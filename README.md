@@ -4,7 +4,7 @@
 ### 1. User-Friendly Dashboard
 ![Dashboard](https://github.com/Akshay-Jagiasi/FJ-BE-R2-Akshay-Jagiasi-TSEC/assets/121112225/31659cd9-ff09-4703-b522-23e42dee0e6f)
 ### 2. Login/Sign-Up
-![Screenshot 2024-05-25 194946](https://github.com/Akshay-Jagiasi/FJ-BE-R2-Akshay-Jagiasi-TSEC/assets/121112225/f795e4e7-f96d-47f4-a341-e5f4db8ca61b)
+![Login ](https://github.com/Akshay-Jagiasi/FJ-BE-R2-Akshay-Jagiasi-TSEC/assets/121112225/d9c58627-6899-41c6-a1db-5f1e401dced5)
 ### 3. Expenses Page
 - With Search and Export Features
 - Add, Edit and Delete Expenses
@@ -40,6 +40,9 @@ EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
 ```
 After commenting out these lines, you should be able to run the project without any issues related to email configuration.
 For demo purposes, you can log in using the following credentials:
+
 Username: akshay
+
 Password: 1234567890
+
 This will allow you to explore the application's functionality without setting up email configuration.
