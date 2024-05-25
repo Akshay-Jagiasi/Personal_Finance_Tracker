@@ -6,7 +6,7 @@ import os
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = config('SECRET_KEY')
+SECRET_KEY = "x5!$t*5d_1slh9&+^_)oq@#e=h#z5ep&ik%r0+y5x8ov#z1d1"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True  # For development
