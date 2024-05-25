@@ -28,7 +28,7 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
 ```
-If you encounter an error related to the email configuration in `settings.py`, you can comment out the following lines in mycode/settings.py:
+If you encounter an error related to the email configuration in `settings.py`, you can comment out the following lines in `mycode/settings.py`:
 ```python
 # Enter Email details here
 EMAIL_HOST = config('EMAIL_HOST')
