@@ -20,6 +20,8 @@
 ![Expense Summary](https://github.com/Akshay-Jagiasi/FJ-BE-R2-Akshay-Jagiasi-TSEC/assets/121112225/3c58e5d8-2b8e-4977-88c5-2533aaba1b51)
 
 ### 7. General Settings
+![General Settings](https://github.com/Akshay-Jagiasi/FJ-BE-R2-Akshay-Jagiasi-TSEC/assets/121112225/d5d81083-4d8f-4d7f-91a9-1b9fbda096bb)
+
 ## Installation
 Follow these steps to set up Personal Finance Tracker locally:
 ```bash
