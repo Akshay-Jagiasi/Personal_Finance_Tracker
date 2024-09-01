@@ -41,10 +41,3 @@ EMAIL_PORT = config('EMAIL_PORT')
 EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
 ```
 After commenting out these lines, you should be able to run the project without any issues related to email configuration.
-For demo purposes, you can log in using the following credentials:
-
-Username: akshay
-
-Password: 1234567890
-
-This will allow you to explore the application's functionality without setting up email configuration.
